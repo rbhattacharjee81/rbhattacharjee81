@@ -7,7 +7,7 @@ Digital Transformation Leader with 17+ years of experience in product/portfolio/
 Certifcations: `AWS` `PMP` `AZURE`  `SAFe` `CSM` `JAVA` `DataBricks` `SnowFlake` <br/>
 Languages: `Python` `Java` `R` <br/>
 Frameworks: `API` `Spring Boot` `Hibernate` <br/>
-Analytics and Data Science:  `Microsoft Excel (PivotTables, Formulas, solver)` `Tableau BI` `Statistics` `Hadoop` <br/>
+Analytics and Data Science:  `Microsoft Excel (PivotTables, Formulas, solver)` `Tableau BI` `Statistics` `Hadoop` `KNN` `PCA` <br/>
 Databases: `Oracle` `MySQL` `SQL Server` `SAS` <br/>
 Tools: `Jira` `VersionOne` `Confluence` `Microsoft Visio` `MS Project plan (.mpp)` `Figma` <br/>
 Devops: `Git` `Github` `Jenkins` `SonarQube` `Maven` `Junit` <br/>
