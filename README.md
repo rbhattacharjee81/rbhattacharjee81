@@ -8,8 +8,8 @@ Certifcations: `AWS` `PMP` `AZURE`  `SAFe` `CSM` `JAVA` `DataBricks` `SnowFlake`
 Languages: `Python` `Java` `R` <br/>
 Frameworks: `API` `Spring Boot` `Hibernate` <br/>
 Analytics and Data Science:  `Microsoft Excel (PivotTables, Formulas, solver)` `Tableau BI` `Statistics` `Hadoop` <br/>
-Tools: `Oracle` `MySQL` `SQL Server` `SAS` <br/>
-Databases: `Jira` `VersionOne` `Confluence` `Microsoft Visio` `MS Project plan (.mpp)` `Figma` <br/>
+Databases: `Oracle` `MySQL` `SQL Server` `SAS` <br/>
+Tools: `Jira` `VersionOne` `Confluence` `Microsoft Visio` `MS Project plan (.mpp)` `Figma` <br/>
 Devops: `Git` `Github` `Jenkins` `SonarQube` `Maven` `Junit` <br/>
 
 
